@@ -1,0 +1,28 @@
+{
+  "id": "job_1793283098547_w3zn2",
+  "createdAt": "2026-10-29T14:11:38.548Z",
+  "status": "downloading",
+  "progress": 10,
+  "stageMessage": "Sample video loaded (29s)",
+  "logs": [
+    "[14:11:38] Job received and queued for processing.",
+    "[14:11:38] Loading built-in sample video: \"The Micro-Hook Playbook (Viral Video Secrets)\"...",
+    "[14:11:38] Sample video loaded (29s)"
+  ],
+  "options": {
+    "targetDuration": 15,
+    "clipCount": 1,
+    "aspectRatio": "9:16",
+    "captionStyle": "viral_yellow",
+    "fontSize": 28,
+    "captionPosition": "bottom",
+    "burnSubtitles": true
+  },
+  "source": {
+    "type": "sample",
+    "filePath": "/app/applet/storage/jobs/job_1793283098547_w3zn2/source_video.mp4",
+    "title": "The Micro-Hook Playbook (Viral Video Secrets)",
+    "uploader": "Alex Vance",
+    "duration": 29
+  }
+}

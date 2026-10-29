@@ -1,0 +1,6 @@
+{
+  "name": "ClipForge AI",
+  "description": "AI Video Clip Generator — Convert long YouTube videos and uploads into viral vertical shorts with AI highlight detection, transcription, and subtitles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

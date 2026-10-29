@@ -1,0 +1,17 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: ClipStyle,Liberation Sans,28,&H0000FFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,1,0,1,3,2,2,60,60,80,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:07.14,ClipStyle,,0,0,0,,HERE IS THE BRUTAL TRUTH ABOUT BUILDING CONTENT IN 2026, 95% OF CREATORS FAIL BECAUSE THEY TREAT
+Dialogue: 0,0:00:07.14,0:00:13.52,ClipStyle,,0,0,0,,EVERY PLATFORM THE EXACT SAME WAY. IF YOU WANT TO EXPLODE YOUR REACH, YOU MUST MASTER THE
+Dialogue: 0,0:00:13.52,0:00:19.76,ClipStyle,,0,0,0,,MICRO HOOK. THE FIRST TWO SECONDS DECIDE WHETHER SOMEONE WATCHES YOUR VIDEO OR SCROLLS FOREVER.
+Dialogue: 0,0:00:20.04,0:00:25.60,ClipStyle,,0,0,0,,STOP WASTING TIME ON SLOW INTRODUCTIONS. HIT THEM WITH A BOLD STATEMENT, DELIVER A IMMEDIATE VALUE
+Dialogue: 0,0:00:25.60,0:00:28.52,ClipStyle,,0,0,0,,AND END WITH AN OPEN LOOP THAT KEEPS THEM WANTING MORE.

@@ -1,0 +1,23 @@
+{
+  "inputVideo": "/app/applet/storage/jobs/job_1793283217841_6uw5u/source_video.mp4",
+  "outputVideo": "/app/applet/storage/jobs/job_1793283217841_6uw5u/clip_1_clip_1_0_15.mp4",
+  "startTime": 0,
+  "endTime": 15,
+  "aspectRatio": "9:16",
+  "segments": [
+    {
+      "start": 0,
+      "end": 5,
+      "text": "EDITED VIRAL HOOK FOR TESTING"
+    },
+    {
+      "start": 5,
+      "end": 15,
+      "text": "WATCH HOW FAST CLIPFORGE RE-RENDERS"
+    }
+  ],
+  "burnSubtitles": true,
+  "captionStyle": "viral_yellow",
+  "fontSize": 28,
+  "captionPosition": "bottom"
+}

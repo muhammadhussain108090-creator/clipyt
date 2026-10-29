@@ -1,0 +1,543 @@
+{
+  "id": "job_1793283488646_8dcru",
+  "createdAt": "2026-10-29T14:18:08.646Z",
+  "status": "rendering",
+  "progress": 70,
+  "stageMessage": "Rendering Clip 1/3: \"Why 95% of Creators Fail\" (0s - 28.8s, 9:16)...",
+  "logs": [
+    "[14:18:08] Job received and queued for processing.",
+    "[14:18:08] Loading built-in sample video: \"The Micro-Hook Playbook (Viral Video Secrets)\"...",
+    "[14:18:08] Sample video loaded (29s)",
+    "[14:18:08] Video probed: 1920x1080, duration: 29s",
+    "[14:18:08] Transcribing speech using local Faster-Whisper (CPU)...",
+    "[14:18:16] Transcription complete (5 speech segments, language: en)",
+    "[14:18:16] Analyzing transcript with Google Gemini AI for viral hooks & key moments...",
+    "[14:18:16] Querying AI highlights with model gemini-3.8-flash...",
+    "[14:18:24] Model gemini-3.8-flash notice: Timeout after 8000ms. Switching to fallback...",
+    "[14:18:24] Querying AI highlights with model gemini-3.1-flash-lite...",
+    "[14:18:27] AI selected 3 candidate highlights using gemini-3.1-flash-lite.",
+    "[14:18:27] Validated 3 clips for rendering.",
+    "[14:18:27] Rendering Clip 1/3: \"Why 95% of Creators Fail\" (0s - 28.8s, 9:16)..."
+  ],
+  "options": {
+    "targetDuration": 30,
+    "clipCount": 3,
+    "aspectRatio": "9:16",
+    "captionStyle": "viral_yellow",
+    "fontSize": 28,
+    "captionPosition": "bottom",
+    "burnSubtitles": true
+  },
+  "source": {
+    "type": "sample",
+    "filePath": "/app/applet/storage/jobs/job_1793283488646_8dcru/source_video.mp4",
+    "title": "The Micro-Hook Playbook (Viral Video Secrets)",
+    "uploader": "Alex Vance",
+    "duration": 28.8,
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript": {
+    "language": "en",
+    "fullText": "Here is the brutal truth about building content in 2026, 95% of creators fail because they treat every platform the exact same way. If you want to explode your reach, you must master the micro hook. The first two seconds decide whether someone watches your video or scrolls forever. Stop wasting time on slow introductions. Hit them with a bold statement, deliver a immediate value and end with an open loop that keeps them wanting more.",
+    "segments": [
+      {
+        "start": 0,
+        "end": 7.14,
+        "text": "Here is the brutal truth about building content in 2026, 95% of creators fail because they treat",
+        "words": [
+          {
+            "word": "Here",
+            "start": 0,
+            "end": 0.52,
+            "probability": 0.95
+          },
+          {
+            "word": "is",
+            "start": 0.52,
+            "end": 0.78,
+            "probability": 0.97
+          },
+          {
+            "word": "the",
+            "start": 0.78,
+            "end": 1.04,
+            "probability": 0.96
+          },
+          {
+            "word": "brutal",
+            "start": 1.04,
+            "end": 1.34,
+            "probability": 0.94
+          },
+          {
+            "word": "truth",
+            "start": 1.34,
+            "end": 1.78,
+            "probability": 0.99
+          },
+          {
+            "word": "about",
+            "start": 1.78,
+            "end": 2.06,
+            "probability": 0.98
+          },
+          {
+            "word": "building",
+            "start": 2.06,
+            "end": 2.36,
+            "probability": 0.84
+          },
+          {
+            "word": "content",
+            "start": 2.36,
+            "end": 2.8,
+            "probability": 1
+          },
+          {
+            "word": "in",
+            "start": 2.8,
+            "end": 3.12,
+            "probability": 0.99
+          },
+          {
+            "word": "2026,",
+            "start": 3.12,
+            "end": 3.9,
+            "probability": 0.86
+          },
+          {
+            "word": "95",
+            "start": 4.56,
+            "end": 4.94,
+            "probability": 0.94
+          },
+          {
+            "word": "%",
+            "start": 4.94,
+            "end": 5.4,
+            "probability": 0.86
+          },
+          {
+            "word": "of",
+            "start": 5.4,
+            "end": 5.58,
+            "probability": 0.98
+          },
+          {
+            "word": "creators",
+            "start": 5.58,
+            "end": 5.88,
+            "probability": 0.97
+          },
+          {
+            "word": "fail",
+            "start": 5.88,
+            "end": 6.38,
+            "probability": 0.99
+          },
+          {
+            "word": "because",
+            "start": 6.38,
+            "end": 6.74,
+            "probability": 0.6
+          },
+          {
+            "word": "they",
+            "start": 6.74,
+            "end": 6.96,
+            "probability": 1
+          },
+          {
+            "word": "treat",
+            "start": 6.96,
+            "end": 7.14,
+            "probability": 1
+          }
+        ]
+      },
+      {
+        "start": 7.14,
+        "end": 13.52,
+        "text": "every platform the exact same way. If you want to explode your reach, you must master the",
+        "words": [
+          {
+            "word": "every",
+            "start": 7.14,
+            "end": 7.68,
+            "probability": 0.96
+          },
+          {
+            "word": "platform",
+            "start": 7.68,
+            "end": 8.02,
+            "probability": 0.98
+          },
+          {
+            "word": "the",
+            "start": 8.02,
+            "end": 8.42,
+            "probability": 0.99
+          },
+          {
+            "word": "exact",
+            "start": 8.42,
+            "end": 8.88,
+            "probability": 1
+          },
+          {
+            "word": "same",
+            "start": 8.88,
+            "end": 9.18,
+            "probability": 1
+          },
+          {
+            "word": "way.",
+            "start": 9.18,
+            "end": 9.58,
+            "probability": 1
+          },
+          {
+            "word": "If",
+            "start": 9.9,
+            "end": 10.04,
+            "probability": 0.99
+          },
+          {
+            "word": "you",
+            "start": 10.04,
+            "end": 10.2,
+            "probability": 1
+          },
+          {
+            "word": "want",
+            "start": 10.2,
+            "end": 10.38,
+            "probability": 1
+          },
+          {
+            "word": "to",
+            "start": 10.38,
+            "end": 10.62,
+            "probability": 1
+          },
+          {
+            "word": "explode",
+            "start": 10.62,
+            "end": 11.18,
+            "probability": 0.88
+          },
+          {
+            "word": "your",
+            "start": 11.18,
+            "end": 11.68,
+            "probability": 0.97
+          },
+          {
+            "word": "reach,",
+            "start": 11.68,
+            "end": 12,
+            "probability": 0.98
+          },
+          {
+            "word": "you",
+            "start": 12.36,
+            "end": 12.4,
+            "probability": 0.99
+          },
+          {
+            "word": "must",
+            "start": 12.4,
+            "end": 12.72,
+            "probability": 1
+          },
+          {
+            "word": "master",
+            "start": 12.72,
+            "end": 13.12,
+            "probability": 0.98
+          },
+          {
+            "word": "the",
+            "start": 13.12,
+            "end": 13.52,
+            "probability": 0.98
+          }
+        ]
+      },
+      {
+        "start": 13.52,
+        "end": 19.76,
+        "text": "micro hook. The first two seconds decide whether someone watches your video or scrolls forever.",
+        "words": [
+          {
+            "word": "micro",
+            "start": 13.52,
+            "end": 13.8,
+            "probability": 0.39
+          },
+          {
+            "word": "hook.",
+            "start": 13.8,
+            "end": 14.3,
+            "probability": 0.41
+          },
+          {
+            "word": "The",
+            "start": 14.74,
+            "end": 14.9,
+            "probability": 0.99
+          },
+          {
+            "word": "first",
+            "start": 14.9,
+            "end": 15.28,
+            "probability": 1
+          },
+          {
+            "word": "two",
+            "start": 15.28,
+            "end": 15.7,
+            "probability": 0.79
+          },
+          {
+            "word": "seconds",
+            "start": 15.7,
+            "end": 16.12,
+            "probability": 0.99
+          },
+          {
+            "word": "decide",
+            "start": 16.12,
+            "end": 16.52,
+            "probability": 0.88
+          },
+          {
+            "word": "whether",
+            "start": 16.52,
+            "end": 16.8,
+            "probability": 0.99
+          },
+          {
+            "word": "someone",
+            "start": 16.8,
+            "end": 17.04,
+            "probability": 0.99
+          },
+          {
+            "word": "watches",
+            "start": 17.04,
+            "end": 17.38,
+            "probability": 0.99
+          },
+          {
+            "word": "your",
+            "start": 17.38,
+            "end": 17.64,
+            "probability": 0.98
+          },
+          {
+            "word": "video",
+            "start": 17.64,
+            "end": 18.04,
+            "probability": 0.99
+          },
+          {
+            "word": "or",
+            "start": 18.04,
+            "end": 18.48,
+            "probability": 0.58
+          },
+          {
+            "word": "scrolls",
+            "start": 18.48,
+            "end": 19.08,
+            "probability": 0.98
+          },
+          {
+            "word": "forever.",
+            "start": 19.08,
+            "end": 19.76,
+            "probability": 0.98
+          }
+        ]
+      },
+      {
+        "start": 20.04,
+        "end": 25.6,
+        "text": "Stop wasting time on slow introductions. Hit them with a bold statement, deliver a immediate value",
+        "words": [
+          {
+            "word": "Stop",
+            "start": 20.04,
+            "end": 20.22,
+            "probability": 0.98
+          },
+          {
+            "word": "wasting",
+            "start": 20.22,
+            "end": 20.48,
+            "probability": 0.92
+          },
+          {
+            "word": "time",
+            "start": 20.48,
+            "end": 20.86,
+            "probability": 1
+          },
+          {
+            "word": "on",
+            "start": 20.86,
+            "end": 21.16,
+            "probability": 0.99
+          },
+          {
+            "word": "slow",
+            "start": 21.16,
+            "end": 21.48,
+            "probability": 0.98
+          },
+          {
+            "word": "introductions.",
+            "start": 21.48,
+            "end": 22.1,
+            "probability": 0.98
+          },
+          {
+            "word": "Hit",
+            "start": 22.54,
+            "end": 22.7,
+            "probability": 0.98
+          },
+          {
+            "word": "them",
+            "start": 22.7,
+            "end": 22.94,
+            "probability": 1
+          },
+          {
+            "word": "with",
+            "start": 22.94,
+            "end": 23.1,
+            "probability": 1
+          },
+          {
+            "word": "a",
+            "start": 23.1,
+            "end": 23.34,
+            "probability": 0.98
+          },
+          {
+            "word": "bold",
+            "start": 23.34,
+            "end": 23.56,
+            "probability": 0.94
+          },
+          {
+            "word": "statement,",
+            "start": 23.56,
+            "end": 23.94,
+            "probability": 1
+          },
+          {
+            "word": "deliver",
+            "start": 24.32,
+            "end": 24.56,
+            "probability": 0.97
+          },
+          {
+            "word": "a",
+            "start": 24.56,
+            "end": 24.94,
+            "probability": 0.32
+          },
+          {
+            "word": "immediate",
+            "start": 24.94,
+            "end": 25.14,
+            "probability": 0.92
+          },
+          {
+            "word": "value",
+            "start": 25.14,
+            "end": 25.6,
+            "probability": 1
+          }
+        ]
+      },
+      {
+        "start": 25.6,
+        "end": 28.52,
+        "text": "and end with an open loop that keeps them wanting more.",
+        "words": [
+          {
+            "word": "and",
+            "start": 25.6,
+            "end": 25.94,
+            "probability": 0.71
+          },
+          {
+            "word": "end",
+            "start": 25.94,
+            "end": 26.22,
+            "probability": 0.93
+          },
+          {
+            "word": "with",
+            "start": 26.22,
+            "end": 26.38,
+            "probability": 0.99
+          },
+          {
+            "word": "an",
+            "start": 26.38,
+            "end": 26.64,
+            "probability": 0.98
+          },
+          {
+            "word": "open",
+            "start": 26.64,
+            "end": 26.86,
+            "probability": 0.98
+          },
+          {
+            "word": "loop",
+            "start": 26.86,
+            "end": 27.14,
+            "probability": 0.99
+          },
+          {
+            "word": "that",
+            "start": 27.14,
+            "end": 27.42,
+            "probability": 0.99
+          },
+          {
+            "word": "keeps",
+            "start": 27.42,
+            "end": 27.64,
+            "probability": 0.99
+          },
+          {
+            "word": "them",
+            "start": 27.64,
+            "end": 27.9,
+            "probability": 0.97
+          },
+          {
+            "word": "wanting",
+            "start": 27.9,
+            "end": 28.06,
+            "probability": 0.85
+          },
+          {
+            "word": "more.",
+            "start": 28.06,
+            "end": 28.52,
+            "probability": 0.99
+          }
+        ]
+      }
+    ]
+  }
+}

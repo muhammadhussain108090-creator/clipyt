@@ -1,0 +1,32 @@
+{
+  "id": "job_1793283180927_4by2t",
+  "createdAt": "2026-10-29T14:13:00.927Z",
+  "status": "transcribing",
+  "progress": 30,
+  "stageMessage": "Transcribing speech using local Faster-Whisper (CPU)...",
+  "logs": [
+    "[14:13:00] Job received and queued for processing.",
+    "[14:13:00] Loading built-in sample video: \"The Micro-Hook Playbook (Viral Video Secrets)\"...",
+    "[14:13:00] Sample video loaded (29s)",
+    "[14:13:01] Video probed: 1920x1080, duration: 29s",
+    "[14:13:01] Transcribing speech using local Faster-Whisper (CPU)..."
+  ],
+  "options": {
+    "targetDuration": 15,
+    "clipCount": 1,
+    "aspectRatio": "9:16",
+    "captionStyle": "viral_yellow",
+    "fontSize": 28,
+    "captionPosition": "bottom",
+    "burnSubtitles": true
+  },
+  "source": {
+    "type": "sample",
+    "filePath": "/app/applet/storage/jobs/job_1793283180927_4by2t/source_video.mp4",
+    "title": "The Micro-Hook Playbook (Viral Video Secrets)",
+    "uploader": "Alex Vance",
+    "duration": 28.8,
+    "width": 1920,
+    "height": 1080
+  }
+}
